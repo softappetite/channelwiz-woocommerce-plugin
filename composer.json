@@ -1,0 +1,6 @@
+{
+    "require": {
+        "double-break/spapi-php": "^1.1",
+        "ecomphp/tiktokshop-php": "^2.5"
+    }
+}
